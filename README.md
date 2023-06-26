@@ -1,3 +1,4 @@
 # stock-price-app
 webapp
-![Screenshot (153)](https://github.com/ranuj10/stock-price-app/assets/84148153/cc506ec6-7a08-447a-aad8-cb5f30d746bc)
+
+![stock](https://github.com/ranuj10/stock-price-app/assets/84148153/ff483d2a-243e-41a4-85ca-a21b6bc0be4b)
